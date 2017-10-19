@@ -14,6 +14,7 @@ def feature2():
 
 def feature3():
 	print("Feature 3.\n")
+	print("Feature 3 finalized.\n")
 
 if __name__ == "__main__":
 	printFunction()
