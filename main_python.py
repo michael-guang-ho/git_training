@@ -12,5 +12,8 @@ def feature1():
 def feature2():
 	print("Feature 2.\n")
 
+def feature3():
+	print("Feature 3.\n")
+
 if __name__ == "__main__":
 	printFunction()
