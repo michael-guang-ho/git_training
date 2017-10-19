@@ -3,6 +3,7 @@
 
 def printFunction():
 	print("First line.\n")
+	print("Newline.\n")
 
 def feature1():
 	print("feature 1 branch printout\n")
